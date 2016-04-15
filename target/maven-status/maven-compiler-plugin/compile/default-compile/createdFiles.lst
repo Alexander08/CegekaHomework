@@ -1,0 +1,7 @@
+ro\cegeka\homework\hw1\bridge\concreteImplementor\SaveFormatTXT.class
+ro\cegeka\homework\hw1\bridge\implementor\SaveFormat.class
+ro\cegeka\homework\hw1\bridge\concreteImplementor\SaveFormatXML.class
+ro\cegeka\homework\hw1\main\Main.class
+ro\cegeka\homework\hw1\bridge\concreteImplementor\SaveFormatJSON.class
+ro\cegeka\homework\hw1\bridge\refinedAbstraction\Candy.class
+ro\cegeka\homework\hw1\bridge\abstraction\SaveObject.class

@@ -1,0 +1,5 @@
+Candy name: bomboana
+Candy form: rotunda
+Candy price: 10.0
+Candy weight: 25.0
+Candy expire date: Fri Apr 15 03:56:02 EEST 2016
